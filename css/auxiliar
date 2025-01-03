@@ -1,0 +1,101 @@
+Soy campos Joaquin , un analista funcional de sistemas junior con una 
+										sólida formación en bases de. Estoy eager por aplicar 
+										mis conocimientos en un entorno profesional y contribuir a proyectos 
+										innovadores. Mi capacidad de aprendizaje rápido y mi enfoque 
+										proactivo me permiten adaptarme a nuevos desafíos y
+										 colaborar de manera efectiva en equipos multidisciplinarios.
+
+
+
+
+
+                                         <li><strong>edad </strong> 21</span></li>
+										<li><strong><i>lugar de nacimiento </i></strong> Argentina, Santa fe, Rosario</li>
+										<li><strong>Fecha de nacimiento</strong> 20/05/2003</li>
+										<li><strong>Localidad</strong> Rosario, La florida </li>
+										<li><strong>direccion</strong> pasaje gloria 4120</li>
+
+
+
+
+                                        <div class="row service-items border-line-v">
+
+							<!-- service item -->
+							<div class="col col-d-6 col-t-6 col-m-12 border-line-h">
+								<div class="service-item">
+									<div class="icon"><span class="ion ion-code"></span></div>
+									<div class="name">Solución de problemas y pensamiento lógico</div>
+									<p>
+										Soy capaz de analizar problemas , descomponerlos en varias partes	
+										 y encontrar soluciones eficientes mediante la aplicación  estructuras
+										  de datos. Me gustan los desafios y encontrar soluciones de 
+										 la forma más optima e  implementar una solución.
+									</p>
+								</div>
+							</div>
+
+							<!-- service item -->
+							<div class="col col-d-6 col-t-6 col-m-12 border-line-h">
+								<div class="service-item">
+									<div class="icon"><span class="ion ion-ios-world-outline"></span></div>
+									<div class="name">Aprendizaje continuo y adaptación</div>
+									<p>
+										Disfruto de aprender nuevos lenguajes de programación, frameworks y tecnologías. 
+										Soy un autodidacta apasionado y
+										 siempre estoy buscando oportunidades para mejorar mis habilidades.
+									</p>
+								</div>
+							</div>
+
+							<!-- service item -->
+							<div class="col col-d-6 col-t-6 col-m-12 border-line-h">
+								<div class="service-item">
+									<div class="icon"><span class="ion ion-ios-list"></span></div>
+									<div class="name">Trabajo en equipo y comunicación: </div>
+									<p>
+										Me gusta trabajar en equipos ya que fue la mejor manera que encontre en adquirir nuevos conocimientos.
+										Ademas, soy capaz de comunicarme para generar un feedback con el equipo. Soy un buen
+										oyente y siempre estoy dispuesto a compartir mis conocimientos y aprender de los demás.
+									</p>
+								</div>
+							</div>
+
+							<!-- service item -->
+							<div class="col col-d-6 col-t-6 col-m-12 border-line-h">
+								<div class="service-item">
+									<div class="icon"><span class="ion ion-android-desktop"></span></div>
+									<div class="name">habilidades blandas</div>
+									<p>
+										Soy altamente organizado y capaz de gestionar múltiples proyectos simultáneamente, cumpliendo con plazos ajustados.
+									</p>
+								</div>
+							</div>
+
+							<!-- service item -->
+							<div class="col col-d-6 col-t-6 col-m-12">
+								<div class="service-item">
+									<div class="icon"><span class="ion ion-iphone"></span></div>
+									<div class="name">Web Development</div>
+									<p>
+										Con sólidos conocimientos en HTML, CSS, JavaScript y Node.js, he desarrollado 
+										diversas aplicaciones web y proyectos personales. Mi nivel intermedio en estas 
+										tecnologías me permite construir interfaces de usuario atractivas 
+										y funcionales, así como desarrollar el backend de aplicaciones web.
+									</p>
+								</div>
+							</div>
+
+							<!-- service item -->
+							<div class="col col-d-6 col-t-6 col-m-12">
+								<div class="service-item">
+									<div class="icon"><span class="ion ion-document-text"></span></div>
+									<div class="name">pack office y bases de datos</div>
+									<p>
+										ominio avanzado de herramientas como Excel, PowerPoint, Access y SQL para el análisis de datos,
+										 creación de informes y gestión de bases de datos
+									</p>
+								</div>
+							</div>
+
+							<div class="clear"></div>
+						</div>
